@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"AVR-ASM-Sublime",
+		"ayu",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"Dracula Color Scheme",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"JavaScript & Coffeescript Build Systems",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"JsFormat",
+		"Material Monokai",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Placeholders",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"Theme - Autumn",
+		"Theme - Seti Monokai",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai - Spacegray (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti_orig.sublime-theme"
+}
